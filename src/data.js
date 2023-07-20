@@ -13,31 +13,31 @@ export const imageGalleryData = [
     },
     {
       name: 'passenger',
-      imagePath: '../assets/passenger.jpg',
+      imagePath: './assets/passenger.jpg',
     },
     {
       name: 'space',
-      imagePath: '../assets/space.jpg',
+      imagePath: './assets/space.jpg',
     },
     {
       name: 'spiderman 2',
-      imagePath: '../assets/spiderman2.jpg',
+      imagePath: './assets/spiderman2.jpg',
     },
     {
       name: 'the universe',
-      imagePath: '../assets/universe.jpg',
+      imagePath: './assets/universe.jpg',
     },
     {
       name: 'spiderman 3',
-      imagePath: '../assets/spiderman3.jpg',
+      imagePath: './assets/spiderman3.jpg',
     },
     {
       name: 'holiday',
-      imagePath: '../assets/holiday.jpg',
+      imagePath: './assets/holiday.jpg',
     },
     {
       name: 'ironman 2',
-      imagePath: '../assets/ironman2.jpg',
+      imagePath: './assets/ironman2.jpg',
     },
   ];
   
