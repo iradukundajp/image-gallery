@@ -1,15 +1,15 @@
 export const imageGalleryData = [
     {
       name: 'spiderman',
-      imagePath: '../assets/spiderman.jpg',
+      imagePath: './assets/spiderman.jpg',
     },
     {
       name: 'joker',
-      imagePath: '../assets/joker.jpg',
+      imagePath: './assets/joker.jpg',
     },
     {
       name: 'ironman',
-      imagePath: '../assets/ironman.jpg',
+      imagePath: './assets/ironman.jpg',
     },
     {
       name: 'passenger',
