@@ -39,6 +39,26 @@ export const imageGalleryData = [
       name: 'ironman 2',
       imagePath: './assets/ironman2.jpg',
     },
+    {
+      name: 'Bad boys',
+      imagePath: './assets/bad-boys.jpg',
+    },
+    {
+      name: 'jaws',
+      imagePath: './assets/jaws.jpg',
+    },
+    {
+      name: 'Shawshank 2',
+      imagePath: './assets/shawshank.jpeg',
+    },
+    {
+      name: 'Us',
+      imagePath: './assets/us.jpeg',
+    },
+    {
+      name: 'Black panther 1',
+      imagePath: './assets/black-panther1.jpeg',
+    },
   ];
   
   export const dom = {
