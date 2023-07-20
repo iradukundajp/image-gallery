@@ -75,3 +75,10 @@
     font-weight: 400;
     text-transform: capitalize;
 }
+
+.no-image-found {
+    text-align: center;
+    color: #f00;
+    font-size: 40px;
+    margin-top: 20px;
+  }
