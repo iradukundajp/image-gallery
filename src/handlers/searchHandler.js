@@ -22,8 +22,3 @@ export const handleSearchInput = (event) => {
     renderImages(imageGalleryData, dom.imagesContainer, dom.noImageFoundMessage, dom.imgsDom);
   }
 }
-
-// Event handler for dom content loaded 
-export const handleDOMContentLoaded = () => {
-    // Initial render of all images
-        renderImages(imageGalleryData, dom.imagesContainer, dom.noImageFoundMessage, dom.imgsDom);}
